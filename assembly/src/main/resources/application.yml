@@ -1,0 +1,8 @@
+spring:
+  application.name: jkube-boot-multimodule
+
+logging:
+  level:
+    org.springframework: INFO
+    com.zaxxer: INFO
+    root: INFO
